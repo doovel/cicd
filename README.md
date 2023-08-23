@@ -1,4 +1,4 @@
-![code coverage](https://github.com/doovel/cicd/actions/workflows/ci/badge.svg)
+![code coverage](https://github.com/doovel/cicd/actions/workflows/ci.yml/badge.svg)
 
 # CICD-mini-course
 
